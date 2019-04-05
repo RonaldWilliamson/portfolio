@@ -1,0 +1,1 @@
+// mainly for contact page and any 3d or js games
